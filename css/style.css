@@ -1,0 +1,25 @@
+h1 {
+  font-family: "Julius Sans One", sans-serif;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.raspberry {
+  background-color: #c42348;
+}
+.first {
+  background-color: #cfc0bd;
+}
+.rose {
+  background-color: #ffcfd2;
+}
+.valhalla {
+  background-color: #c7eae4;
+}
+.opal {
+  background-color: #f7e3de;
+}
+.card-body {
+  align-content: right;
+}
